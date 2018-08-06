@@ -5,3 +5,5 @@
 - 本人初学者代码十分的冗余,还请见谅
 
 本脚本主要用于学习使用，请不要用于商业用途。有问题可以联系zou89757@gmail.com
+
+![test](https://github.com/Luck89757/duobao/blob/master/test.png)
